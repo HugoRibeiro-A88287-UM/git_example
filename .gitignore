@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+.c.orig
 # Object files
 *.o
 *.ko
